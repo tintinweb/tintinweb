@@ -1,5 +1,5 @@
 ____
-[![Linkedin: tintinweb](https://img.shields.io/badge/-tintinweb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-ortner-bb40a9126/)](https://www.linkedin.com/in/martin-ortner-bb40a9126/) [<img height="20px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">](https://marketplace.visualstudio.com/publishers/tintinweb)
+[![Linkedin: tintinweb](https://img.shields.io/badge/-tintinweb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-ortner-bb40a9126/)](https://www.linkedin.com/in/martin-ortner-bb40a9126/) [<img height="20px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">](https://marketplace.visualstudio.com/publishers/tintinweb) [<img height="20px" src="https://telegram.org/img/t_logo.svg">](https://t.me/tintinweb)
 
 
 
