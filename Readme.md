@@ -12,8 +12,8 @@ ____
 - practice responsible disclosure
 - used to be #3 on the Ethereum Vulnerability Leaderboard
 - #39 theCyber
-- published vulnerabilities in cpp-ethereum, mist, parity and bitcoin-core but 
-- also broke parts of Android, OpenSSH, Putty, Python, various Web Applications, Embedded Devices
+- published vulnerabilities in cpp-ethereum, mist, parity and bitcoin-core 
+- broke parts of Android, OpenSSH, Putty, Python, various Web Applications, Embedded Devices
 
 I am OS agnostic, any programming language, any architecture, things will be reverse engineered anyway.
 
