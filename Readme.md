@@ -15,6 +15,12 @@ ____
 - published vulnerabilities in cpp-ethereum, mist, parity and bitcoin-core 
 - broke parts of Android, OpenSSH, Putty, Python, various Web Applications, Embedded Devices
 
+I like ...
+
+- ❤️ - protocols
+- ❤️ - decoders
+- ❤️ - decompression algorithms
+
 I am OS agnostic, any programming language, any architecture, things will be reverse engineered anyway.
 
 
