@@ -21,7 +21,9 @@ I like ...
 - ❤️ - decoders
 - ❤️ - decompression algorithms
 
-I am OS agnostic, any programming language, any architecture, things will be reverse engineered anyway.
+... because these things just break easily 😊.
+
+I am OS agnostic, any programming language, any architecture, things will be reverse engineered if needed.
 
 
 - 🏆 - [Public Disclosures / Exploits / PoCs](https://github.com/tintinweb/pub)
