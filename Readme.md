@@ -18,7 +18,7 @@ ____
 I like ...
 
 - ❤️ - protocols
-- ❤️ - decoders
+- ❤️ - decoder
 - ❤️ - decompression algorithms
 
 ... because these things just break easily 😊.
@@ -27,7 +27,8 @@ I am OS agnostic, any programming language, any architecture, things will be rev
 
 
 - 🏆 - [Public Disclosures / Exploits / PoCs](https://github.com/tintinweb/pub)
-- 🏆 - [Ethereum Bug Bounty Reports](https://bounty.ethereum.org/)
+- 🏆 - [Ethereum Bug Bounty](https://bounty.ethereum.org/)
+- 🏆 - [Ethereum 2.0 Bug Bounty](http://eth2bounty.ethereum.org/)
 
 ____
 
