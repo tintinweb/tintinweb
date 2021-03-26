@@ -8,27 +8,28 @@ ____
 
 > Consider it done!
 
-- I do Blockchain security research
-- practice responsible disclosure
-- used to be #3 on the Ethereum Vulnerability Leaderboard
+- Blockchain security research
+- Responsible disclosure
+- Used to be #3 on the Ethereum Vulnerability Leaderboard
 - #39 theCyber
-- published vulnerabilities in cpp-ethereum, mist, parity and bitcoin-core 
+- Vulnerabilities in cpp-ethereum, mist, parity and bitcoin-core, bitcoin miners 
 - broke parts of Android, OpenSSH, Putty, Python, various Web Applications, Embedded Devices
 
-I like ...
+Loves ...
 
 - ❤️ - protocols
-- ❤️ - decoder
+- ❤️ - decoders
 - ❤️ - decompression algorithms
 
-... because these things just break easily 😊.
+... because they just break easily.
 
-I am OS agnostic, any programming language, any architecture, things will be reverse engineered if needed.
+OS agnostic, any programming language, any architecture, things will be reverse engineered if needed.
 
 
 - 🏆 - [Public Disclosures / Exploits / PoCs](https://github.com/tintinweb/pub)
 - 🏆 - [Ethereum Bug Bounty](https://bounty.ethereum.org/)
 - 🏆 - [Ethereum 2.0 Bug Bounty](http://eth2bounty.ethereum.org/)
+- 🏆 - [Research](https://consensys.net/diligence/research/)
 
 ____
 
