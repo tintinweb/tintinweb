@@ -32,8 +32,10 @@ OS agnostic, any programming language, any architecture, things will be reverse 
 - 🏆 - [Research](https://consensys.net/diligence/research/)
 
 
-❤ Be a Hero, tip a 🍺 🙂 ⟶ Ƀ: 1AZMeGVfCBbYwVYyG9s79pJDyocTZgiApa | Ξth: 0x438B38E30eF117C15fBfF833f9C2c70182925815
-
 ____
 
 ![tintinweb github stats](https://github-readme-stats.vercel.app/api?username=tintinweb&hide=["issues"]&show_icons=true)
+
+<sup>
+Be a Hero, tip a 🍺 🙂 ⟶ Ƀ: 1AZMeGVfCBbYwVYyG9s79pJDyocTZgiApa | Ξth: 0x438B38E30eF117C15fBfF833f9C2c70182925815
+</sup>
