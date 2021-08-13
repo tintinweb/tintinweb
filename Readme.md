@@ -6,7 +6,6 @@ ____
 ![](https://media1.giphy.com/media/ieaUdBJJC19uw/200.webp?cid=ecf05e47cmnjal9q24yrgifjx1aumi0wk7c4vomqzfqjq2by&rid=200.webp)
 ____
 
-> Consider it done!
 
 - Blockchain security research
 - Responsible disclosure
