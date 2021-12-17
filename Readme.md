@@ -31,6 +31,7 @@ OS agnostic, any programming language, any architecture, things will be reverse 
 - 🏆 - [Ethereum 2.0 Bug Bounty](http://eth2bounty.ethereum.org/)
 - 🏆 - [Research](https://consensys.net/diligence/research/)
 - 🏆 - [VSCode Extensions](https://marketplace.visualstudio.com/publishers/tintinweb)
+- 🏆 - [npm](https://www.npmjs.com/~tintinweb)
 
 
 ____
