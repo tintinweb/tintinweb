@@ -7,20 +7,35 @@ ____
 ____
 
 
-- Blockchain security research
-- Responsible disclosure
-- Used to be #3 on the Ethereum Vulnerability Leaderboard
-- #39 theCyber
-- Vulnerabilities in cpp-ethereum, mist, parity and bitcoin-core, bitcoin miners 
-- broke parts of Android, OpenSSH, Putty, Python, various Web Applications, Embedded Devices
+Hi, I am eating your ...
 
-Loves ...
+- 🍪 Smart Contracts
+- 🍪 Peer-to-Peer Networking Nodes
+- 🍪 Protocols
+- 🍪 Custom Decoder
+- 🍪 Custom Crypto and Decompression Algorithms
 
-- ❤️ - protocols
-- ❤️ - decoders
-- ❤️ - decompression algorithms
+Nom nom nom nom nom ...🐿️
 
-... because they just break easily.
+____
+
+🧙‍ I am busy ...
+
+- improving Security for the Ethereum Ecosystem
+- reviewing complex Smart Contract Systems and Off-Chain components
+- researching new attack vectors
+- building useful Tools to satisfy the lazy efficiency monk in me
+
+Pleople say I ...
+
+- practice Responsible Disclosure
+- do this just for fun
+- am on the Ethereum & Ethereum 2.0 Vulnerability Leaderboard
+- am #39 in theCyber
+- disclosed multiple vulnerabilities in cpp-ethereum, mist, parity and bitcoin-core, and bitcoin miners 
+- broke parts of Android, OpenSSH, Putty, Python, various Web Applications, and Embedded Devices
+
+____
 
 OS agnostic, any programming language, any architecture, things will be reverse engineered if needed.
 
