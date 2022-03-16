@@ -12,7 +12,7 @@ Hi, I am eating your ...
 - 🍪 Smart Contracts
 - 🍪 Peer-to-Peer Networking Nodes
 - 🍪 Protocols
-- 🍪 Custom Decoder
+- 🍪 Decoders
 - 🍪 Custom Crypto and Decompression Algorithms
 
 Nom nom nom nom nom ...🐿️
