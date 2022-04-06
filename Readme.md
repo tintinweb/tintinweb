@@ -26,7 +26,7 @@ ____
 - researching new attack vectors
 - building useful Tools to satisfy the lazy efficiency monk in me
 
-Pleople say I ...
+People say I ...
 
 - practice Responsible Disclosure
 - do this just for fun
