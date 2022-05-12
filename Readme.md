@@ -19,14 +19,14 @@ Nom nom nom nom nom ...🐿️
 
 ____
 
-🧙‍ I am busy ...
+🧙‍ I am ...
 
 - improving Security for the Ethereum Ecosystem
 - reviewing complex Smart Contract Systems and Off-Chain components
 - researching new attack vectors
 - building useful Tools to satisfy the lazy efficiency monk in me
 
-People say I ...
+🥷 I ...
 
 - practice Responsible Disclosure
 - do this just for fun
