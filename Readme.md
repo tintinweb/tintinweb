@@ -7,7 +7,7 @@ ____
 ____
 
 
-Hi, I am eating your ...
+Hi, I eat ...
 
 - 🍧 Smart Contracts
 - 🧁 Peer-to-Peer Networking Nodes
@@ -19,12 +19,12 @@ Nom nom nom nom nom ...🐿️
 
 ____
 
-🧙‍ I am ...
+🧙‍ I try to ...
 
-- improving Security for the Ethereum Ecosystem
-- reviewing complex Smart Contract Systems and Off-Chain components
-- researching new attack vectors
-- building useful Tools to satisfy the lazy efficiency monk in me
+- improve Security for the Ethereum Ecosystem
+- review complex Smart Contract Systems and Off-Chain components
+- research new attack vectors
+- buidl useful Tools to satisfy the lazy efficiency monk in me
 
 🥷 I ...
 
