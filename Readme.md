@@ -4,14 +4,19 @@
 
 
 
+
+
+<a href="https://tintinweb.github.io/portfolio/"><img width="1239" alt="image" src="https://github.com/user-attachments/assets/de8d10a7-bf85-4789-84e3-c172074a873a" /> </a>
+
 ![](https://media1.giphy.com/media/ieaUdBJJC19uw/200.webp?cid=ecf05e47cmnjal9q24yrgifjx1aumi0wk7c4vomqzfqjq2by&rid=200.webp)
+
 ____
 
 `> gpt-3` `'who is tintinweb'`
 
 <img width=700 src='https://user-images.githubusercontent.com/2865694/205521537-49ed42de-72cc-4e65-bdb9-24faa9649d8a.png'></img>
 
-___
+____
 
 `> break --things`
 
