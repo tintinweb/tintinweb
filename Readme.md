@@ -90,6 +90,7 @@ OS agnostic, any programming language, any architecture, things will be reverse 
 - 🏆 - [Ethereum 2.0 Bug Bounty](http://eth2bounty.ethereum.org/)
 - 🏆 - [Research](https://consensys.net/diligence/research/)
 - 🏆 - [npm](https://www.npmjs.com/~tintinweb)
+- 🏆 - [[thedao.fund] Round #1 ETH Security Badge Holder](https://x.com/thedaofund/status/2034710924326502569)
 
 📋 **[Public Disclosures](https://github.com/tintinweb/pub)** — 40+ vulnerabilities across:
 - **Android** — [CVE-2017-13208](https://github.com/tintinweb/pub/tree/master/pocs/cve-2017-13208) · RCE via DHCP out-of-bounds write (Android 5.1–8.1)
