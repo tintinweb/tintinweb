@@ -130,18 +130,6 @@ ____
   <img alt="tintinweb contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tintinweb&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&area=true">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tintinweb&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tintinweb&theme=default">
-  <img alt="repos per language" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tintinweb&theme=github_dark">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tintinweb&theme=github_dark&utcOffset=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tintinweb&theme=default&utcOffset=1">
-  <img alt="productive time" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tintinweb&theme=github_dark&utcOffset=1">
-</picture>
-
-<hr>
 <sup>
 Be a Hero, tip a 🍺 🙂 ⟶ Ƀ: 1AZMeGVfCBbYwVYyG9s79pJDyocTZgiApa | Ξth: 0x438B38E30eF117C15fBfF833f9C2c70182925815
 </sup>
