@@ -11,7 +11,7 @@
 
 `> AI Agents · Security Research · Blockchain · Exploits`
 
-`> Security Researcher @ Consensys Diligence · buidling AI security agents`
+`> Co-Founder, Security Researcher @ Consensys Diligence · buidling AI security agents`
 
 ![VSCode installs](https://img.shields.io/badge/VSCode_installs-1.7M+-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![GitHub stars](https://img.shields.io/badge/GitHub_stars-8.2k-yellow?style=flat-square&logo=github) ![CVEs and disclosures](https://img.shields.io/badge/CVEs_%26_disclosures-40+-red?style=flat-square) ![npm packages](https://img.shields.io/badge/npm_packages-14-CB3837?style=flat-square&logo=npm&logoColor=white)
 
